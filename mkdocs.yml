@@ -1,0 +1,34 @@
+site_name: BIA Tournefeuille
+nav:
+  - Accueil: index.md
+  - Sessions :
+    - General: sessions/general.md
+    - Session 1: sessions/1.md
+    - Session 2: sessions/2.md
+  - Themes:
+    - Connaissance de l'avion: aeronef.md
+    - Aérodynamique: themes/aero.md
+    - Météorologie: themes/meteo.md
+    - Navigation et réglementation: themes/navigation.md
+    - Histoire: themes/histoire.md
+  - Ressources:
+    - Livres de cours BIA: ressources/bia.md
+    - Autres ressources BIA: ressources/other_bia.md
+    - Culture aéronautique:
+      - Aéronef: ressources/aeronef.md
+      - Aérodynamique : ressources/aero.md
+      - Météorologie: ressources/meteo.md
+      - Navigation: ressources/navigation.md
+      - Histoire: ressources/histoire.md
+  - A propos: 
+    - Contact: contact.md
+    - Making-off: howto.md
+theme: 
+  name: material
+  custom_dir: theme
+use_directory_urls: false
+markdown_extensions:
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: True
+  - pymdownx.details
