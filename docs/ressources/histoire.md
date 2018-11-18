@@ -55,22 +55,41 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 ### Livres
 
 * [Manuel de navigation US](../data/culture/Air navigation.pdf)
-* [Manuel de navigation US](FM1-30.PDF)
-* [US Aircraft Recognition handbook](FM30-30.PDF)
+* [Manuel de navigation US](../data/culture/FM1-30.PDF)
+* [US Aircraft Recognition handbook](../data/culture/FM30-30.PDF)
 * [Ensemble de documents avions archives US](http://www.theshermantank.com/downloads-page-the-place-for-things-to-big-to-post-like-manuals/airplane-stuff/)
 * [Ensemble de manuels US](https://www.ibiblio.org/hyperwar/USA/ref/FM/index.html)
 
 * [Pierre Clostermann, Le grand cirque](https://fr.wikipedia.org/wiki/Le_Grand_Cirque)
 
 
-### Films
+### Films/Séries
 * [La bataille d'Angleterre](http://www.allocine.fr/film/fichefilm_gen_cfilm=32570.html)
 * [Normandie Niemen](http://www.allocine.fr/film/fichefilm_gen_cfilm=5258.html)
 * [Menphis Belle](http://www.allocine.fr/film/fichefilm_gen_cfilm=35576.html)
 * [Red Tails](http://www.allocine.fr/film/fichefilm_gen_cfilm=120385.html)
+* [Les Têtes Brulées](https://fr.wikipedia.org/wiki/Les_T%C3%AAtes_br%C3%BBl%C3%A9es_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e))
 
 ---
 ## Guerre froide
+
+### Films/Séries   
+
+* [Les chevaliers du ciel](https://fr.wikipedia.org/wiki/Les_Chevaliers_du_ciel_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e))
+
+---
+## Epoque moderne
+
+### Films/Séries
+
+* [Top Gun](https://fr.wikipedia.org/wiki/Top_Gun_(film)
+* [Les chevaliers du ciel](http://www.allocine.fr/film/fichefilm_gen_cfilm=52296.html)
+
+---
+## Parodies / Humoristiques
+
+* [Hot Shots !](http://www.allocine.fr/film/fichefilm_gen_cfilm=7173.html)
+* [Y-a-t-il un pilote dans l'avion ?](http://www.allocine.fr/film/fichefilm_gen_cfilm=36184.html)
 
 ---
 ## Conquète spatiale 
@@ -79,7 +98,7 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 
 ### Films
 
-* L'étoffe des héros
+* [L'étoffe des héros](http://www.allocine.fr/film/fichefilm_gen_cfilm=26163.html)
 
 
 

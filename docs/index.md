@@ -1,6 +1,6 @@
 # Bienvenue sur le site internet de préparation au BIA du Lycée Françoise de Tournefeuille
 
-_Dernière mise à jour : 01 Novembre 2018_
+_Dernière mise à jour : 18 Novembre 2018_
 
 Ce site contient les supports de cours et quelques compléments culturels support  à l'enseignement de préparation du Brevet d'Initiation à l'Aéronautique au Lycée Marie-Louise Dissard, dite Françoise, de Tournefeuille.
 
@@ -16,6 +16,7 @@ Cet enseignement est réalisé par :
 
 sous la supervision de Jean-Claude Réau (Instructeur).
 
+Le contenu du site est fourni tel qu'il est. Il n'a aucune autre ambition que de regrouper un ensemble d'éléments culturels à destination des élèves du BIA du Lycée. Il est indépendant de l'établissement et de l'aéro-club, et ne saurait les engager.
 
 ## Liens institutionnels
 
@@ -24,4 +25,11 @@ sous la supervision de Jean-Claude Réau (Instructeur).
 * [Le BIA](http://eduscol.education.fr/sti/formations/tout-niveau/brevet-dinitiation-aeronautique-bia)
 * [CIRAS Toulouse](http://www.ciras.fr/)
 * [Aéroclub Jean Mermoz, Aérodrome de Muret-Lherm](https://www.acjmermoz.com/)
+
+## Accès
+
+[https://martialpohin.github.io/bia](https://martialpohin.github.io/bia)
+
+![https://martialpohin.github.io/bia](QRCode.png)
+
 
