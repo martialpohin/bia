@@ -298,6 +298,30 @@
   </li>
 
         
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="sessions/3.html" title="Session 3" class="md-nav__link">
+      Session 3
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="sessions/4.html" title="Session 4" class="md-nav__link">
+      Session 4
+    </a>
+  </li>
+
+        
       </ul>
     </nav>
   </li>
@@ -566,9 +590,38 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Making-off
+      </label>
+    
     <a href="howto.html" title="Making-off" class="md-nav__link md-nav__link--active">
       Making-off
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#procedure-detaillee" title="Procédure détaillée :" class="md-nav__link">
+    Procédure détaillée :
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -595,6 +648,22 @@
     
   
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#procedure-detaillee" title="Procédure détaillée :" class="md-nav__link">
+    Procédure détaillée :
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -613,6 +682,17 @@
 <li><a href="https://www.mkdocs.org/">Rédaction : mkdocs</a></li>
 <li><a href="https://squidfunk.github.io/mkdocs-material/">Thème : materials for mkdocs</a></li>
 <li><a href="https://pages.github.com/">Hosting : github pages</a></li>
+</ul>
+<h2 id="procedure-detaillee">Procédure détaillée :</h2>
+<ul>
+<li>Dans Web/bia-web</li>
+<li><code>git status</code> : pour savoir quels fichiers ont été modifiés,</li>
+<li><code>git add *</code> : pour accepter les fichiers modifiés,</li>
+<li>`git rm --cached -r <dir>' : si besoin de supprimer un répertoire de la liste des fichiers à 'commiter'</li>
+<li>`git rm --cached <file>' : si besoin de supprimer un fichier à 'commiter'</li>
+<li><code>git commit -m "message pour le commit"</code> : pour réaliser un commit local</li>
+<li><code>git push origin master</code> : pour transférer les sources sur GitHub</li>
+<li><code>mkdocs gh-deploy --ignore-version</code> : pour publier le site. </li>
 </ul>
                 
                   
