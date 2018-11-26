@@ -2,6 +2,10 @@
 
 La liste ci-dessous n'a aucune prétention à être exhaustive.
 
+* [TPE sur les avions](http://tpe-avion-63.e-monsite.com/)
+* [Tout le monde peut-il devenir pilote de chasse](http://antoineconqui.wixsite.com/tpe-pilotedechasse/comment-lavion-vole-t-il-)
+* [TPE AVIATION Comment un avion, plus lourd que l'air, vole-t-il ?](http://mecanique-et-physique-du-vol.e-monsite.com/)
+
 ## Constructeurs
 
 * [Airbus](https://www.airbus.com)
@@ -20,9 +24,13 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
                                           
 * [Avions Robin](http://www.robin-aircraft.com/)
 
+* [Replic'Air](http://replicair.fr/)
+
 ## Site de fans
 
 * [Avions légendaires](https://www.avionslegendaires.net/)
+* [Dataero](https://www.dataero.fr/)
+* [Avialogs](https://www.avialogs.com/)
 
 ## Sites divers
 
@@ -30,4 +38,8 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 * [Un statoréacteur à la maison - le moteur pop-pop](https://www.youtube.com/watch?v=najBSr1Sijc)
 
 ## Manuels de vols
+
+* [Yak-3, avion de chasse russe de la seconde guerre mondiale, avion du Normandie-Niemen (Téléchargement)](../data/culture/Manuel_Yak-3.pdf)
+* [DC-3](http://pcmuseum.tripod.com/dc3/)
+* [Queques manuels d'avions de ligne moderne : A380, B787, B777, A320, B737NG, ... ](http://conmachine.com/)
 

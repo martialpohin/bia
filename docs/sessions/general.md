@@ -1,6 +1,6 @@
 # Organisation
 
-## 20 créneaux
+## 20 créneaux / 40 heures
 
 * [7 novembre](1.md)
 * 14 novembre : pas cours
