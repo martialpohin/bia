@@ -1,10 +1,12 @@
 site_name: BIA Tournefeuille
 site_description: 'Support de cours pour la préparation du BIA au lycée Françoise de Tournefeuille.'
 site_author: 'Martial Pohin'
-site-url: https://martialpohin.github.com/bia
+site_url: https://martialpohin.github.com/bia
 
-repo_name: 'martialpohin/bia'
+repo_name: 'bia'
 repo_url: 'https://github.com/martialpohin/bia'
+
+google_analytics: ['UA-129882552-1', 'martialpohin.github.com/bia']
 
 nav:
   - Accueil: index.md
