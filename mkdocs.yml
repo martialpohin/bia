@@ -6,7 +6,9 @@ site_url: https://martialpohin.github.com/bia
 repo_name: 'bia'
 repo_url: 'https://github.com/martialpohin/bia'
 
-google_analytics: ['UA-129882552-1', 'martialpohin.github.com/bia']
+google_analytics: 
+  - 'UA-129882552-1' 
+  - auto
 
 nav:
   - Accueil: index.md

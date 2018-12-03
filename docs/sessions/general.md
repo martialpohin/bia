@@ -13,12 +13,12 @@
 * 2 janvier : Vacances de Noel
 * [9 Janvier](6.md)
 * [16 janvier](7.md)
-* [23 janvier](8.md)
+* [23 janvier - Pas cours](8.md)
 * [30 janvier](9.md)
 * [06 Février](10.md)
 * [13 Février](11.md)
 * [20 Février](12.md)
-* 27 Février : Vacances d'hiver
+* 27 Février - Pas cours: Vacances d'hiver
 * 6 mars : Vacances d'hiver
 * [13 mars](13.md)
 * [20 mars](14.md)
@@ -26,9 +26,11 @@
 * [3 avril](16.md)
 * [10 avril](17.md)
 * [17 avril](18.md)
-* 24 avril : Vacances de Paques
+* 24 avril - Pas cours: Vacances de Paques
 * 1 mai : Férié/Vacances de Paques
 * 8 mai : Férié
+* 15 mai :
+* 22 mai - Pas cours
 
 ---
 ## Contenus
