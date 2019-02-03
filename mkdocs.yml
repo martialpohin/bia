@@ -18,11 +18,17 @@ nav:
     - Session 2: sessions/2.md
     - Session 3: sessions/3.md
     - Session 4: sessions/4.md
+    - Session 5: sessions/5.md
+    - Session 6: sessions/6.md
+    - Session 7: sessions/7.md
+    - Session 8: sessions/8.md
+    - Session 9: sessions/9.md
+    - Session 10: sessions/10.md
   - Themes:
     - Connaissance de l'avion: themes/aeronef.md
     - Aérodynamique: themes/aero.md
-    - Météorologie: themes/meteo.md
     - Navigation et réglementation: themes/navigation.md
+    - Météorologie: themes/meteo.md
     - Histoire: themes/histoire.md
   - Ressources:
     - Livres de cours BIA: ressources/bia.md

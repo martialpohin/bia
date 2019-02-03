@@ -13,7 +13,7 @@
 * 2 janvier : Vacances de Noel
 * [9 Janvier](6.md)
 * [16 janvier](7.md)
-* [23 janvier - Pas cours](8.md)
+* [23 janvier](8.md)
 * [30 janvier](9.md)
 * [06 Février](10.md)
 * [13 Février](11.md)
