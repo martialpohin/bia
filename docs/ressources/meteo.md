@@ -5,6 +5,12 @@
 ## Sites officiels
 
 * [Météo France](https://www.meteofrance.com)
+* [Aeroweb](https://aviation.meteo.fr/login.php)
+* [Guide aviation Météo France](http://www.meteofrance.fr/documents/10192/7603719/Int+Guide+Aviation+2018+V2+BD+du+08-11.pdf/e41a9407-3749-4207-a3aa-6eeb450cf445)
+
+* [Didacticiel Météo aéro par Ecole Nationale de la Météorologie](https://aerodidact.enm.meteo.fr/)
+
+* [La météo aéro du week-end](http://www.aerovfr.com/)
 
 ## Sites divers
 
