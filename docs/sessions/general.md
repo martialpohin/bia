@@ -29,8 +29,8 @@
 * 24 avril - Pas cours: Vacances de Paques
 * 1 mai : Férié/Vacances de Paques
 * 8 mai : Férié
-* [15 mai] :(19.md)
-* [22 mai] : (20.md)
+* [15 mai](19.md)
+* [22 mai](20.md)
 * 29 mai : [**Examen de 14:00 à 16:30, puis de 16:30 à 17:00**](https://www.education.gouv.fr/cid136923/au-bo-du-6-decembre-2018-session-2019-du-brevet-d-initiation-aeronautique-et-du-certificat-d-aptitude-a-l-enseignement-aeronautique.html)
 
 
