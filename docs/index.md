@@ -6,16 +6,7 @@ Ce site contient les supports de cours et quelques compléments culturels suppor
 
 [Marie-Louise Dissart, alias "Françoise"](https://fr.wikipedia.org/wiki/Marie-Louise_Dissard)
 
-Cet enseignement est réalisé dans le carde d'un accord entre le lycée, et l'aéro-club Jean Mermoz de [l'aérodrome de Muret-Lherm](https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Muret_-_Lherm).
-
-Cet enseignement est réalisé par :
-
-* Jean-Pierre Laurent,
-* Frédérique Malinovski
-* Martial Pohin,
-* Jean-Claude Réau,
-
-sous la supervision de Jean-Claude Réau (Instructeur).
+Cet enseignement est réalisé dans le cadre d'un accord entre le lycée, et l'aéro-club Jean Mermoz de [l'aérodrome de Muret-Lherm](https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Muret_-_Lherm).
 
 Le contenu du site est fourni tel qu'il est. Il n'a aucune autre ambition que de regrouper un ensemble d'éléments culturels à destination des élèves du BIA du Lycée. Il est indépendant de l'établissement et de l'aéro-club, et ne saurait les engager.
 
