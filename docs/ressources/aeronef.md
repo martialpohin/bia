@@ -9,6 +9,7 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 ## Constructeurs
 
 * [Airbus](https://www.airbus.com)
+* [Daher](https://www.daher.com/constructeur-davions/)
 
 * [Boeing](https://www.boeing.com)
 * [Bombardier](https://businessaircraft.bombardier.com/fr)
@@ -26,6 +27,9 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 
 * [Replic'Air](http://replicair.fr/)
 
+* [Aura Aero](https://www.aura-aero.com/)
+* [Voltaero](https://www.voltaero.com/)
+
 ## Site de fans
 
 * [Avions légendaires](https://www.avionslegendaires.net/)
@@ -41,9 +45,18 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 
 * [Yak-3, avion de chasse russe de la seconde guerre mondiale, avion du Normandie-Niemen (Téléchargement)](../data/culture/Manuel_Yak-3.pdf)
 * [DC-3](http://pcmuseum.tripod.com/dc3/)
-* [Queques manuels d'avions de ligne moderne : A380, B787, B777, A320, B737NG, ... ](http://conmachine.com/)
+* [Quelques manuels d'avions de ligne moderne : A380, B787, B777, A320, B737NG, ... ](http://conmachine.com/)
 
 # Spatial
+
+* [NASA - USA](https://www.nasa.gov/)
+* [ESA - Europe](http://www.esa.int/)
+* [ROSCOSMOS - Russie](http://en.roscosmos.ru/)
+
+* [SpaceX](https://www.spacex.com/)
+* [Blue Origin](https://www.blueorigin.com/)
+* [Virgin Galactic](https://www.virgingalactic.com/)
+
 
 * [Positions des satellites](https://maps.esri.com/rc/sat/index.html)
 * [ISS Tracking](https://www.n2yo.com/satellite/?s=25544)

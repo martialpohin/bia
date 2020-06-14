@@ -12,43 +12,24 @@ google_analytics:
 
 nav:
   - Accueil: index.md
-  - Sessions :
-    - General: sessions/general.md
-    - Session 1: sessions/1.md
-    - Session 2: sessions/2.md
-    - Session 3: sessions/3.md
-    - Session 4: sessions/4.md
-    - Session 5: sessions/5.md
-    - Session 6: sessions/6.md
-    - Session 7: sessions/7.md
-    - Session 8: sessions/8.md
-    - Session 9: sessions/9.md
-    - Session 10: sessions/10.md
-    - Session 11: sessions/11.md
-    - Session 12: sessions/12.md
-    - Session 13: sessions/13.md
-    - Session 14: sessions/14.md
-    - Session 15: sessions/15.md
-    - Session 16: sessions/16.md
-    - Session 17: sessions/17.md
-    - Session 18: sessions/18.md
-    - Session 19: sessions/19.md
-    - Session 20: sessions/20.md
-  - Themes:
+  - Cours :
+    - Progression : themes/progression.md
     - Connaissance de l'avion: themes/aeronef.md
     - Aérodynamique: themes/aero.md
     - Navigation et réglementation: themes/navigation.md
     - Météorologie: themes/meteo.md
     - Histoire: themes/histoire.md
+    - Anglais: themes/anglais.md
   - Ressources:
     - Livres de cours BIA: ressources/bia.md
     - Autres ressources BIA: ressources/other_bia.md
-    - Culture aéronautique:
+  - Culture aéronautique:
+      - BDthèque : ressources/bd.md
+      - Histoire: ressources/histoire.md
       - Aéronef: ressources/aeronef.md
       - Aérodynamique : ressources/aero.md
       - Météorologie: ressources/meteo.md
       - Navigation: ressources/navigation.md
-      - Histoire: ressources/histoire.md
   - A propos: 
     - Contact: contact.md
     - Making-off: howto.md

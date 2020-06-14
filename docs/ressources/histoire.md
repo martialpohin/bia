@@ -11,10 +11,13 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 * [Aéroscopia (31)](http://www.musee-aeroscopia.fr/)
 * [Las ailes anciennes de Toulouse (31)](http://www.aatlse.org/)
 * [Musée de l'hydraviation de Biscarosse (40)](https://www.hydravions-biscarrosse.com/)
+* [Espace Air Passion - Angers (49)](https://www.musee-aviation-angers.fr/)
 
+
+* [Musée de l'air et de l'espace - Le Bouget (93)](https://www.museeairespace.fr/)
 * [Musée de l'aviation de chasse de Montélimar](http://www.meacmtl.com/)
 
-
+---
 ## Début de l'aviation
 
 ### Les faucheurs de marguerite
