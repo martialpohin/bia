@@ -1,183 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://martialpohin.github.com/bia/index.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/general.html</loc>
-     <lastmod>2019-03-31</lastmod>
+    </url><url>
+     <loc>https://martialpohin.github.com/bia/themes/progression.html</loc>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/1.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/2.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/3.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/4.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/5.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/6.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/7.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/8.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/9.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/10.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/11.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/12.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/13.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/14.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/15.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/16.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/17.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/18.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/19.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/sessions/20.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/themes/aeronef.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/themes/aero.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/themes/navigation.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/themes/meteo.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/themes/histoire.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
+     <loc>https://martialpohin.github.com/bia/themes/anglais.html</loc>
+     <lastmod>2020-06-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/ressources/bia.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/ressources/other_bia.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/ressources/aeronef.html</loc>
-     <lastmod>2019-03-31</lastmod>
+    </url><url>
+     <loc>https://martialpohin.github.com/bia/ressources/bd.html</loc>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/ressources/aero.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/ressources/meteo.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://martialpohin.github.com/bia/ressources/navigation.html</loc>
-     <lastmod>2019-03-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/ressources/histoire.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
+     <loc>https://martialpohin.github.com/bia/ressources/aeronef.html</loc>
+     <lastmod>2020-06-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://martialpohin.github.com/bia/ressources/aero.html</loc>
+     <lastmod>2020-06-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://martialpohin.github.com/bia/ressources/meteo.html</loc>
+     <lastmod>2020-06-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://martialpohin.github.com/bia/ressources/navigation.html</loc>
+     <lastmod>2020-06-14</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/contact.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>https://martialpohin.github.com/bia/howto.html</loc>
-     <lastmod>2019-03-31</lastmod>
+     <lastmod>2020-06-14</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
