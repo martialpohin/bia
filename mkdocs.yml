@@ -4,7 +4,7 @@ site_author: 'Martial Pohin'
 site_url: https://martialpohin.github.com/bia
 
 repo_name: 'bia'
-repo_url: 'https://github.com/martialpohin/bia'
+repo_url: https://github.com/martialpohin/bia
 
 google_analytics: 
   - 'UA-169372827-1' 
