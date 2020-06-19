@@ -85,7 +85,7 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 
 ### Films/Séries
 
-* [Top Gun](https://fr.wikipedia.org/wiki/Top_Gun_(film)
+* [Top Gun](https://fr.wikipedia.org/wiki/Top_Gun_(film))
 * [Les chevaliers du ciel](http://www.allocine.fr/film/fichefilm_gen_cfilm=52296.html)
 
 ---
