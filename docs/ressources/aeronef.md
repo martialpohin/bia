@@ -29,6 +29,7 @@ La liste ci-dessous n'a aucune prétention à être exhaustive.
 
 * [Aura Aero](https://www.aura-aero.com/)
 * [Voltaero](https://www.voltaero.com/)
+* [LISA Airplanes - AKOYA](http://lisa-airplanes.com/fr/avion-amphibie-leger-akoya/)
 
 ## Site de fans
 

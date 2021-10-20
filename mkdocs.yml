@@ -1,7 +1,7 @@
 site_name: BIA Tournefeuille
 site_description: 'Support de cours pour la préparation du BIA au lycée Françoise de Tournefeuille.'
 site_author: 'Martial Pohin'
-site_url: https://martialpohin.github.com/bia
+site_url: https://martialpohin.github.io/bia
 
 repo_name: 'bia'
 repo_url: https://github.com/martialpohin/bia
@@ -13,7 +13,7 @@ google_analytics:
 nav:
   - Accueil: index.md
   - Cours :
-    - Progression : themes/progression.md
+    - Progression: themes/progression.md
     - Connaissance de l'avion: themes/aeronef.md
     - Aérodynamique: themes/aero.md
     - Navigation et réglementation: themes/navigation.md
